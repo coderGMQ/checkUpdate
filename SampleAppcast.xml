@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>SDPClient</title>
+        <link>http://sparkle-project.org/files/sparkletestcast.xml</link>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+        <item>
+            <title>Version 2.0</title>
+            <sparkle:version>2.0</sparkle:version>
+            <link>https://sparkle-project.org</link>
+            <description>
+                <![CDATA[
+                  <ul>
+                    <li>可以给群聊设置备注.</li>
+                    <li>修复了一些已知问题.</li>
+                  </ul>
+                ]]>
+            </description>
+            <pubDate>Wed, 27 January 2023 14:55:11 +0000</pubDate>
+            <enclosure
+                url="https://gitee.com/IHATEYOU/checkUpdate/blob/master/SDPClient.zip"
+                sparkle:shortVersionString="2.0"
+                sparkle:version="2023.10.15"
+                length="1540409"
+                type="application/octet-stream"
+                sparkle:edSignature="Suw5vk1BIzsmhmXZXFtj5G/AhDkux8exDIOHq3Te26Ly2FBk7D3Rgijn6Nds2mV306rTD2h0ACU+o+N4jo9fCw=="
+            />
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+        </item>
+    </channel>
+</rss>
