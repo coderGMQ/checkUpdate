@@ -22,9 +22,9 @@
                 url="https://github.com/coderGMQ/checkUpdate/blob/main/SDPClient.zip"
                 sparkle:shortVersionString="2.0"
                 sparkle:version="2023.10.15"
-                length="1538800"
+                length="1538663"
                 type="application/octet-stream"
-                sparkle:edSignature="2IRqn5wkhNP0jZICDIOzLKSBnv/p7lH9kf+55wUJluy7awH/kTJbtdr0cj3oR8+z8ZyWQ1IUABnfwmjY01c7Bw=="
+                sparkle:edSignature="TDttRH0x1cV7yj/Rp+Um9vUQ+tIsA0TaA1Ap1b/feeRogZkkUvvBCNAteYkjCXugWp3lcqRPkw7aodF5xVL1DA=="
             />
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
         </item>
