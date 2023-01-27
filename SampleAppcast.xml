@@ -19,12 +19,12 @@
             </description>
             <pubDate>Wed, 27 January 2023 14:55:11 +0000</pubDate>
             <enclosure
-                url="https://gitee.com/IHATEYOU/checkUpdate/blob/master/SDPClient.zip"
+                url="https://github.com/coderGMQ/checkUpdate/blob/main/SDPClient.zip"
                 sparkle:shortVersionString="2.0"
                 sparkle:version="2023.10.15"
-                length="1540409"
+                length="1538800"
                 type="application/octet-stream"
-                sparkle:edSignature="Suw5vk1BIzsmhmXZXFtj5G/AhDkux8exDIOHq3Te26Ly2FBk7D3Rgijn6Nds2mV306rTD2h0ACU+o+N4jo9fCw=="
+                sparkle:edSignature="2IRqn5wkhNP0jZICDIOzLKSBnv/p7lH9kf+55wUJluy7awH/kTJbtdr0cj3oR8+z8ZyWQ1IUABnfwmjY01c7Bw=="
             />
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
         </item>
